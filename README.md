@@ -8,7 +8,7 @@ This is a Python machine learning app that predicts gold prices using a supplied
 - `gold_data.csv` - supplied CSV dataset in DataHub format
 - `requirements.txt` - required Python libraries
 - `gold_prediction_chart.png` - generated chart after running the app
-- `Assignment 1- Developing a Machine Learning App.pdf` - PDF copy of the report
+- `Assignment 1- Developing a Machine Learning App.pdf` - project report write up
 
 ## Dataset
 
