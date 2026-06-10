@@ -1,8 +1,7 @@
 """
 Gold Price Predictor
-Entry-level machine learning application for commodity price prediction.
+Porject for Machine learning application for commodity price prediction.
 
-This version uses a supplied CSV file instead of downloading data automatically.
 The CSV should be named gold_data.csv and should contain two columns:
 Date, Price
 
