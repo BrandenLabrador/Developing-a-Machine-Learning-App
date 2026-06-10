@@ -1,6 +1,6 @@
 # Gold Price Predictor
 
-This is an entry-level Python machine learning app that predicts gold prices using a supplied CSV file.
+This is a Python machine learning app that predicts gold prices using a supplied CSV file.
 
 ## Files
 
@@ -8,8 +8,7 @@ This is an entry-level Python machine learning app that predicts gold prices usi
 - `gold_data.csv` - supplied CSV dataset in DataHub format
 - `requirements.txt` - required Python libraries
 - `gold_prediction_chart.png` - generated chart after running the app
-- `report.docx` - written assignment report
-- `report.pdf` - PDF copy of the report
+- `Assignment 1- Developing a Machine Learning App.pdf` - PDF copy of the report
 
 ## Dataset
 
